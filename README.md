@@ -1,7 +1,7 @@
 # Welcome to Boostnote!
 ## Click here to edit markdown :wave:
 
-<iframe width="560" height="315" src="https://youtu.be/Z2WM_m8vYNo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z2WM_m8vYNo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Docs :memo:
 - [Boostnote | Boost your happiness, productivity and creativity.](https://hackernoon.com/boostnote-boost-your-happiness-productivity-and-creativity-315034efeebe)
